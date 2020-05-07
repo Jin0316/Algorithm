@@ -15,3 +15,4 @@
 #### 4. Images and corresponding probability that predicted Right 
 ![right](https://user-images.githubusercontent.com/55013577/81248944-7bfe3300-9058-11ea-88cd-2cfb456c8945.png)
 #### 5. Images and corresponding probability that predicted Wrong
+![wrong](https://user-images.githubusercontent.com/55013577/81249023-9fc17900-9058-11ea-9289-e3b9cfd89b54.png)

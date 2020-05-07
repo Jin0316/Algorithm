@@ -1,5 +1,5 @@
 ## In Readme, you must attatch
-- What model you used,
+- What model you used
 - Training and Training loss 
 - Test Accuracy result
 - Images and corresponding probability that are predicted right

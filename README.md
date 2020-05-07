@@ -11,7 +11,7 @@
 #### 2. Training step
 ![Training](https://user-images.githubusercontent.com/55013577/81248789-2033aa00-9058-11ea-800f-7ccff5d334f6.png)
 #### 3. Test Accuracy
-
+![Test_acc](https://user-images.githubusercontent.com/55013577/81248920-6f79da80-9058-11ea-897b-34ab7e0d1743.png)
 #### 4. Images and corresponding probability that predicted Right 
 
 #### 5. Images and corresponding probability that predicted Wrong

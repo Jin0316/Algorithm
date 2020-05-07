@@ -7,4 +7,4 @@
 
 #### For Example
 ##### 1. Model 
-![Alt text](hyundong/Desktop/model.png)
+![Alt text](/Desktop/model.png)

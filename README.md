@@ -1,4 +1,4 @@
-## If 'tensorflow.keras' doent work with error 'no moudle keras', try 'import tensorflow.python.keras'. 
+## If 'tensorflow.keras' dosen't work with error 'no moudle name keras', try 'import tensorflow.python.keras'. 
 ### This error appears to have occurred during install tensorflow.
 ## In Readme, you must attatch
 - What model you used
